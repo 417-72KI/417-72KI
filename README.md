@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=417-72KI&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/417-72KI)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/P7KWET1" target="_blank" rel="noopener noreferrer"><img alt="P7KWET1's scores on LAPRAS are as follows: Engineering: 4.21 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.71 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.21&b=2.85&i=3.71&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/P7KWET1" target="_blank" rel="noopener noreferrer"><img alt="P7KWET1's scores on LAPRAS are as follows: Engineering: 4.22 out of 5.0, Business: 2.85 out of 5.0, Influence: 3.71 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.22&b=2.85&i=3.71&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 <!--
